@@ -1,0 +1,14 @@
+/Users/bizzy/rachunek/bin/Debug/net10.0/rachunek
+/Users/bizzy/rachunek/bin/Debug/net10.0/rachunek.deps.json
+/Users/bizzy/rachunek/bin/Debug/net10.0/rachunek.runtimeconfig.json
+/Users/bizzy/rachunek/bin/Debug/net10.0/rachunek.dll
+/Users/bizzy/rachunek/bin/Debug/net10.0/rachunek.pdb
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.AssemblyInfoInputs.cache
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.AssemblyInfo.cs
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.csproj.CoreCompileInputs.cache
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.dll
+/Users/bizzy/rachunek/obj/Debug/net10.0/refint/rachunek.dll
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.pdb
+/Users/bizzy/rachunek/obj/Debug/net10.0/rachunek.genruntimeconfig.cache
+/Users/bizzy/rachunek/obj/Debug/net10.0/ref/rachunek.dll

@@ -1,0 +1,14 @@
+/Users/bizzy/sakiewka/bin/Debug/net10.0/sakiewka
+/Users/bizzy/sakiewka/bin/Debug/net10.0/sakiewka.deps.json
+/Users/bizzy/sakiewka/bin/Debug/net10.0/sakiewka.runtimeconfig.json
+/Users/bizzy/sakiewka/bin/Debug/net10.0/sakiewka.dll
+/Users/bizzy/sakiewka/bin/Debug/net10.0/sakiewka.pdb
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.AssemblyInfoInputs.cache
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.AssemblyInfo.cs
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.csproj.CoreCompileInputs.cache
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.dll
+/Users/bizzy/sakiewka/obj/Debug/net10.0/refint/sakiewka.dll
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.pdb
+/Users/bizzy/sakiewka/obj/Debug/net10.0/sakiewka.genruntimeconfig.cache
+/Users/bizzy/sakiewka/obj/Debug/net10.0/ref/sakiewka.dll

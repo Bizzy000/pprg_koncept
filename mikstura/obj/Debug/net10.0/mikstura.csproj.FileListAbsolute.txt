@@ -1,0 +1,14 @@
+/Users/bizzy/mikstura/bin/Debug/net10.0/mikstura
+/Users/bizzy/mikstura/bin/Debug/net10.0/mikstura.deps.json
+/Users/bizzy/mikstura/bin/Debug/net10.0/mikstura.runtimeconfig.json
+/Users/bizzy/mikstura/bin/Debug/net10.0/mikstura.dll
+/Users/bizzy/mikstura/bin/Debug/net10.0/mikstura.pdb
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.AssemblyInfoInputs.cache
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.AssemblyInfo.cs
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.csproj.CoreCompileInputs.cache
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.dll
+/Users/bizzy/mikstura/obj/Debug/net10.0/refint/mikstura.dll
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.pdb
+/Users/bizzy/mikstura/obj/Debug/net10.0/mikstura.genruntimeconfig.cache
+/Users/bizzy/mikstura/obj/Debug/net10.0/ref/mikstura.dll

@@ -1,0 +1,14 @@
+/Users/bizzy/Wizytowka/bin/Debug/net10.0/Wizytowka
+/Users/bizzy/Wizytowka/bin/Debug/net10.0/Wizytowka.deps.json
+/Users/bizzy/Wizytowka/bin/Debug/net10.0/Wizytowka.runtimeconfig.json
+/Users/bizzy/Wizytowka/bin/Debug/net10.0/Wizytowka.dll
+/Users/bizzy/Wizytowka/bin/Debug/net10.0/Wizytowka.pdb
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.AssemblyInfoInputs.cache
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.AssemblyInfo.cs
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.csproj.CoreCompileInputs.cache
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.dll
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/refint/Wizytowka.dll
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.pdb
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/Wizytowka.genruntimeconfig.cache
+/Users/bizzy/Wizytowka/obj/Debug/net10.0/ref/Wizytowka.dll

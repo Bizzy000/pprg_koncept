@@ -1,0 +1,14 @@
+/Users/bizzy/Adventure/bin/Debug/net10.0/Adventure
+/Users/bizzy/Adventure/bin/Debug/net10.0/Adventure.deps.json
+/Users/bizzy/Adventure/bin/Debug/net10.0/Adventure.runtimeconfig.json
+/Users/bizzy/Adventure/bin/Debug/net10.0/Adventure.dll
+/Users/bizzy/Adventure/bin/Debug/net10.0/Adventure.pdb
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.AssemblyInfoInputs.cache
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.AssemblyInfo.cs
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.csproj.CoreCompileInputs.cache
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.dll
+/Users/bizzy/Adventure/obj/Debug/net10.0/refint/Adventure.dll
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.pdb
+/Users/bizzy/Adventure/obj/Debug/net10.0/Adventure.genruntimeconfig.cache
+/Users/bizzy/Adventure/obj/Debug/net10.0/ref/Adventure.dll

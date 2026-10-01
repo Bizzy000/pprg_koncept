@@ -1,0 +1,14 @@
+/Users/bizzy/zadanie3/bin/Debug/net10.0/zadanie3
+/Users/bizzy/zadanie3/bin/Debug/net10.0/zadanie3.deps.json
+/Users/bizzy/zadanie3/bin/Debug/net10.0/zadanie3.runtimeconfig.json
+/Users/bizzy/zadanie3/bin/Debug/net10.0/zadanie3.dll
+/Users/bizzy/zadanie3/bin/Debug/net10.0/zadanie3.pdb
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.AssemblyInfoInputs.cache
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.AssemblyInfo.cs
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.csproj.CoreCompileInputs.cache
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.dll
+/Users/bizzy/zadanie3/obj/Debug/net10.0/refint/zadanie3.dll
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.pdb
+/Users/bizzy/zadanie3/obj/Debug/net10.0/zadanie3.genruntimeconfig.cache
+/Users/bizzy/zadanie3/obj/Debug/net10.0/ref/zadanie3.dll

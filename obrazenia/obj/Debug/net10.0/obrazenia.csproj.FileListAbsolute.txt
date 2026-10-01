@@ -1,0 +1,14 @@
+/Users/bizzy/Documents/vsc/obrazenia/bin/Debug/net10.0/obrazenia
+/Users/bizzy/Documents/vsc/obrazenia/bin/Debug/net10.0/obrazenia.deps.json
+/Users/bizzy/Documents/vsc/obrazenia/bin/Debug/net10.0/obrazenia.runtimeconfig.json
+/Users/bizzy/Documents/vsc/obrazenia/bin/Debug/net10.0/obrazenia.dll
+/Users/bizzy/Documents/vsc/obrazenia/bin/Debug/net10.0/obrazenia.pdb
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.AssemblyInfoInputs.cache
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.AssemblyInfo.cs
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.csproj.CoreCompileInputs.cache
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.dll
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/refint/obrazenia.dll
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.pdb
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/obrazenia.genruntimeconfig.cache
+/Users/bizzy/Documents/vsc/obrazenia/obj/Debug/net10.0/ref/obrazenia.dll

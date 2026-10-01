@@ -1,0 +1,14 @@
+/Users/bizzy/Documents/vsc/podzial/bin/Debug/net10.0/podzial
+/Users/bizzy/Documents/vsc/podzial/bin/Debug/net10.0/podzial.deps.json
+/Users/bizzy/Documents/vsc/podzial/bin/Debug/net10.0/podzial.runtimeconfig.json
+/Users/bizzy/Documents/vsc/podzial/bin/Debug/net10.0/podzial.dll
+/Users/bizzy/Documents/vsc/podzial/bin/Debug/net10.0/podzial.pdb
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.AssemblyInfoInputs.cache
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.AssemblyInfo.cs
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.csproj.CoreCompileInputs.cache
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.dll
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/refint/podzial.dll
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.pdb
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/podzial.genruntimeconfig.cache
+/Users/bizzy/Documents/vsc/podzial/obj/Debug/net10.0/ref/podzial.dll

@@ -1,0 +1,14 @@
+/Users/bizzy/Documents/vsc/czas/bin/Debug/net10.0/czas
+/Users/bizzy/Documents/vsc/czas/bin/Debug/net10.0/czas.deps.json
+/Users/bizzy/Documents/vsc/czas/bin/Debug/net10.0/czas.runtimeconfig.json
+/Users/bizzy/Documents/vsc/czas/bin/Debug/net10.0/czas.dll
+/Users/bizzy/Documents/vsc/czas/bin/Debug/net10.0/czas.pdb
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.AssemblyInfoInputs.cache
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.AssemblyInfo.cs
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.csproj.CoreCompileInputs.cache
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.dll
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/refint/czas.dll
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.pdb
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/czas.genruntimeconfig.cache
+/Users/bizzy/Documents/vsc/czas/obj/Debug/net10.0/ref/czas.dll
